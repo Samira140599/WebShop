@@ -39,7 +39,7 @@ namespace Web_Shop.Controllers
                 _signInManager = value; 
             }
         }
-
+        //hello
         public ApplicationUserManager UserManager
         {
             get
